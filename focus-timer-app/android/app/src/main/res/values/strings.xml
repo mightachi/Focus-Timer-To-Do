@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Focus Timer</string>
+    <string name="title_activity_main">Focus Timer</string>
+    <string name="package_name">com.focustimer.app</string>
+    <string name="custom_url_scheme">com.focustimer.app</string>
+</resources>
